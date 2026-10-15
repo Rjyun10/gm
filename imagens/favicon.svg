@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Fundo com o mesmo tom escuro do site -->
+  <rect width="64" height="64" rx="14" fill="#0D1117"/>
+  <!-- Borda verde sutil -->
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#2EA043" stroke-width="3"/>
+  <!-- Ícone de código estilizado em verde e branco -->
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" fill="#2EA043" font-family="monospace" font-weight="bold" font-size="28">&lt;/&gt;</text>
+</svg>
